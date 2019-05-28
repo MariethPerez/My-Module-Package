@@ -7,13 +7,13 @@ This is my first published module and says "Welcome!"
 With `yarn`
 
 ```bash
-yarn add welcome
+yarn add my-module_package
 ```
 
 With npm
 
 ```bash
-npm install welcome
+npm install my-module_package
 ```
 
 ## Usage
