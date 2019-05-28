@@ -21,7 +21,7 @@ npm install my-module_package
 Import the module
 
 ```js
-const welcome = require("@mariethpz/my-module_package");
+const welcome = require("my-module_package");
 ```
 
 You will have available the function `welcome`.
