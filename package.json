@@ -1,0 +1,8 @@
+{
+  "name": "my-module_package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MariethPerez/My-Module-Package.git",
+  "author": "Marieth <mperezzevallos@gmail.com>",
+  "license": "MIT"
+}
