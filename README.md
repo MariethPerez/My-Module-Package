@@ -21,7 +21,7 @@ npm install welcome
 Import the module
 
 ```js
-const welcome = require("@paulotijero/welcome");
+const welcome = require("@mariethpz/welcome");
 ```
 
 You will have available the function `hiWorld`.
