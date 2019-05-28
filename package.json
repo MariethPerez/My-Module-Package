@@ -35,5 +35,12 @@
     "hooks": {
       "pre-commit": "npm test"
     }
-  }
+  },
+  "files": [
+    "dist",
+    "index.d.ts",
+    "index.js.flow",
+    "package.json",
+    "README.md"
+  ]
 }
