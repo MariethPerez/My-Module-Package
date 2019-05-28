@@ -1,6 +1,6 @@
 {
   "name": "my-module_package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "My super module",
   "main": "dist/index.js",
   "umd:main": "dist/index.umd.js",
