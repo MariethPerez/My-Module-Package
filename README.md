@@ -24,8 +24,8 @@ Import the module
 const welcome = require("@mariethpz/welcome");
 ```
 
-You will have available the function `hiWorld`.
+You will have available the function `welcome`.
 
 ```js
-hiWorld();
+welcome(name);
 ```
